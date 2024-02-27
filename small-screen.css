@@ -103,6 +103,13 @@
 
         }
     }
+    .home {
+        .content{
+            h2{
+                font-size: 28px;
+            }
+        }
+    }
 }
 
 @media (max-width:300px) {
